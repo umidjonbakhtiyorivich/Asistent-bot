@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 # ============================================
 # 🔑 BOT TOKEN
 # ============================================
-TELEGRAM_BOT_TOKEN = "8657222936:AAEMp7xZMumEMDpV9TRaLiptbGa4Dm1u9NM"
+TELEGRAM_BOT_TOKEN = "8657222936:AAEsKnWPaARyrgDxu2zT4_wz967fFTl7Syc"
 
 # Tashkent vaqti
 TIMEZONE = pytz.timezone('Asia/Tashkent')
